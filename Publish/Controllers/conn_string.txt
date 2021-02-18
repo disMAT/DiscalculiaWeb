@@ -1,0 +1,1 @@
+﻿Data Source=discalculia.database.windows.net;Initial Catalog=Alunos_Discalculia;Persist Security Info=True;User ID=discalculia_admin;Password=Qq123123
