@@ -6,4 +6,6 @@ It is a component that allows users to visualize the information gathered per st
 
 With this combined system, it is provided a non-medical diagnosis of dyscalculia by analysing the child’s performance and presenting it within the **Discalculia Web**, accessible to educators, teachers and experts associated with the child.
 
+The version release do not include the inference system.
+
 >To know more about the development of this combined system, **disMAT** and **Discalculia Web**, please see [here](tobedisclosed) or contact [Filipa Ferraz](filipatferraz@gmail.com).
