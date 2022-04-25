@@ -8,4 +8,6 @@ With this combined system, it is provided a non-medical diagnosis of dyscalculia
 
 The version released do not include the inference system.
 
+>Currently, this system **is not publicaly available** due to a third party interest. Futher notice will be updated here.
+
 >To know more about the development of this combined system, **disMAT** and **Discalculia Web**, please see [here](tobedisclosed) or contact [Filipa Ferraz](filipatferraz@gmail.com).
